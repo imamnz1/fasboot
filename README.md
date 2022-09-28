@@ -1,0 +1,2 @@
+# fasboot
+fastboot reboot
